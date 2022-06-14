@@ -1,5 +1,5 @@
 # COLÁGENO E INSULINA, TOMA PROTEÍNA  
-### Realizado por: Fernando Andrés Galindo y Francisco Murillo Prior
+## Realizado por: Fernando Andrés Galindo y Francisco Murillo Prior
 Plegamientos de proteínas 2D y algoritmo de optimización para la asignatura de Inteligencia Artificial
 
 Consta de un algoritmo simplificado para la resolución de la paradoja de `Levinthal`. La propuesta de trabajo ha sido por parte de la profesora Ana Belén Losada.
